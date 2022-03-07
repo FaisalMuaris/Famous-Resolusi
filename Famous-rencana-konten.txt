@@ -8,3 +8,4 @@ RENCANA KONTEN FAMOUS
 - PHP
  * CodeIgniter
 - JavaScript
+ * Node JS
