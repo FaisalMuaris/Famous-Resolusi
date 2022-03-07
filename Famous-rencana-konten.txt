@@ -4,3 +4,4 @@ RENCANA KONTEN FAMOUS
 - Belajar LARAVEL
  * Laravel 7
  * Laravel 8
+- Membuat Aplikasi menggunakan FrameWork LARAVEL
