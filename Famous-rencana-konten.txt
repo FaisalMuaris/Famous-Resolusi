@@ -1,0 +1,6 @@
+RENCANA KONTEN FAMOUS
+- Belajar Git
+- Belajar API/ RESTAPI
+- Belajar LARAVEL
+ * Laravel 7
+ * Laravel 8
