@@ -2,3 +2,4 @@ FAMOUS RESOLUSI
 - Memahami bahasa pemrograman javascript
 - Memahami tentang BackEnd Developer
 - Membuat Aplikasi Penjualan Web
+- Membuat Aplikasi Pendataan Warga
