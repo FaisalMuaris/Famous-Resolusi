@@ -5,3 +5,7 @@ RENCANA KONTEN FAMOUS
  * Laravel 7
  * Laravel 8
 - Membuat Aplikasi menggunakan FrameWork LARAVEL
+- PHP
+ * CodeIgniter
+- JavaScript
+ * Node JS
